@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nxghta/Nxghta/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nxghta/Nxghta/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
