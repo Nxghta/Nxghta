@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nxghta/Nxghta/main/.github/workflows/build.yml" alt="Snake animation" />
 
 ###
